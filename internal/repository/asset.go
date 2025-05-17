@@ -8,8 +8,8 @@ import (
 )
 
 type SimpleAsset struct {
-	Key   string `json:"ID"`
-	Value string `json:"value"`
+	Key   string `json:"Key"`
+	Value string `json:"Value"`
 }
 
 type SimpleRepository struct {
