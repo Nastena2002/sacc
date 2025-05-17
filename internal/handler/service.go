@@ -1,7 +1,7 @@
 package handler
 
 import (
-	"github.com/Nastena2002/sacc/internal/businessLogic"
+	"github.com/Nastena2002/sacc/internal/businesslogic"
 	"github.com/Nastena2002/sacc/internal/repository"
 	"github.com/hyperledger/fabric-contract-api-go/contractapi"
 )
