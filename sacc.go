@@ -18,3 +18,4 @@ func main() {
 		fx.Invoke(func(*internal.App) {}),
 	).Run()
 }
+
