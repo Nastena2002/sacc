@@ -1,3 +1,8 @@
 .github/
 .devcontainer/
 .github/
+
+.chaincode/vendor/
+.chaincode/sacc.tar.gz
+.fabric-samples/
+.install-fabric.sh
